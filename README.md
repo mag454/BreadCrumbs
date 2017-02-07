@@ -7,5 +7,5 @@ congressional app challenge and were named Finalists.
 Also in this repository is a news article published by my school about our project.  
 It includes a link to a youtube video that we submitted as our presentation for the app challenge.  
 
-Some of the code can be found here (https://github.com/SJP-CSD/breadcrumbs).  However this is not the final project as switched to dropbox at some point because it made it easier for us to do work at home.  
-All of the code is also still in Swift 2. 
+Some of the code can be found here (https://github.com/SJP-CSD/breadcrumbs).  However, all of the code is 
+still in Swift 2.  
